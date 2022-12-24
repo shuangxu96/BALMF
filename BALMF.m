@@ -28,7 +28,7 @@ function [X_new,U,V,model] = BALMF(Y, Rank, varargin)
 % If the code is used in your scientific research, please cite the paper.
 % [1] Shuang Xu, Xiangyong Cao, Jiangjun Peng, Qiao Ke, Cong Ma and Deyu
 % Meng. Hyperspectral Image Denoising by Asymmetric Noise Modeling. IEEE
-% TGRS, 2023.
+% TGRS, 2022.
 
 
 % =========================
