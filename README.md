@@ -10,9 +10,6 @@ To run the code, please follow the instructions in the `README.md` file. The rep
 * `BALMF.m`: BALMF model.
 * `demo_GF5.m`: Evaluate the denoising performance on a GF5 dataset.
 
-## Acknowledgements
-This research was supported by [Funding Agency].
-
 ## Citation
 If you use this code in your research, please cite the corresponding paper:
 ```
